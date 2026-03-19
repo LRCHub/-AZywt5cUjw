@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕といた方がいいんじゃない",
+  "base_artist": "moon drop",
+  "createdAt": "2026-03-19T11:20:57.551832Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕といた方がいいんじゃない",
+      "artist": "moon drop",
+      "has_synced": false,
+      "path": "select/pl_01_僕といた方がいいんじゃない_moon_drop.txt"
+    }
+  ]
+}
